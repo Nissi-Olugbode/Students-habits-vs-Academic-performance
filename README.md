@@ -6,7 +6,7 @@ A project that analysis the effects of students habits on their academic perform
 ### Project Overview:
 
 ### Dataset
-The dataset was gotten from kaggle.com, downloaded in .CSV format. This dataset simulates 1,000 students' daily habits from study time to mental health and compares them to final exam scores.
+The raw dataset was gotten from kaggle.com, [downloaded](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance) in .CSV format. This dataset simulates 1,000 students' daily habits from study time to mental health and compares them to final exam scores.
 
 ### Objectives
 The objective of this analysis was to identify the relationships between students;
@@ -59,4 +59,4 @@ From the analysis of the data, we observed that;
 - There is no significant effect of parental education level on academic performance.
 - There is no significant effect ofstudents part time job on their academic performance.
 - Students with attendnce percentage group from >96% had the highest exam score followed by attendance percentage group 86-96%. This indicates that high attendance percentage improve students performance.
-- 
+- Recommendation for students with low performance;
