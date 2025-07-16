@@ -27,6 +27,7 @@ To identify if thes factors play a role in students academic performance.
 Download full .sql file [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/student%20habits.sql)
 - Case statements for grouping each study habit for ease of analysis.
 - Aggregations for exam score, exercise frequency, attendance percentage, study hours per day, sleep hours.
+- Saved the table created from the SQL query in.xlsx format. Download [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/students%20habits%20cleaned.xlsx).
   
 ### Exploratory Data Analysis
 This involved exloring of the data to analyze the following:
