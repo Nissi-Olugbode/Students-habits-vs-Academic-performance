@@ -24,7 +24,7 @@ To identify if thes factors play a role in students academic performance.
 - Power BI; For dashboard dreation and data visualization.
 
 ### SQL Data Analysis
-Download full .sql file [here.]()
+Download full .sql file [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/student%20habits.sql)
 - Case statements for grouping each study habit for ease of analysis.
 - Aggregations for exam score, exercise frequency, attendance percentage, study hours per day, sleep hours.
   
