@@ -38,7 +38,7 @@ This involved exloring of the data to analyze the following:
 - Identify if students with high attendance percentage also have high exam scores
 
 ### Power BI dashboard
-Download full .pbix file [here.]() 
+Download full .pbix file [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/students%20habits.pbix) 
 - The analysis includes a interactive Power BI dashboard with the following visualizations;
   -- attendance percentage group and exam score
 -- exercise frequency group and exam score
