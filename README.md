@@ -27,6 +27,24 @@ To identify if thes factors play a role in students academic performance.
 Download full .sql file [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/student%20habits.sql)
 - Case statements for grouping each study habit for ease of analysis.
 - Aggregations for exam score, exercise frequency, attendance percentage, study hours per day, sleep hours.
+- These are some lines from the SQL query:
+-  ```
+   SELECT  
+    student_id,
+   gender,
+    parental_education_level,
+    part_time_job,
+    extracurricular_participation,
+    diet_quality,
+
+    CASE
+        WHEN exercise_frequency <= 2 THEN '0-2'
+        WHEN exercise_frequency <= 4 THEN '2-4'
+        WHEN exercise_frequency > 4 THEN '>4'
+    END AS exercise_frequency_group,
+   FROM dbo.student_habits_performance;
+   ```
+ 
 - Saved the table created from the SQL query in.xlsx format. Download [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/students%20habits%20cleaned.xlsx).
   
 ### Exploratory Data Analysis
