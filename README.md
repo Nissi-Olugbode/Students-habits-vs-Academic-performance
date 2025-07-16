@@ -42,7 +42,15 @@ Download full .sql file [here.](https://github.com/Nissi-Olugbode/Students-habit
         WHEN exercise_frequency <= 4 THEN '2-4'
         WHEN exercise_frequency > 4 THEN '>4'
     END AS exercise_frequency_group,
-   FROM dbo.student_habits_performance;
+   
+   ```
+   ```
+   COUNT(student_id) AS count_of_students,
+    ROUND(AVG(exam_score), 2) AS avg_exam_score,
+    ROUND(AVG(exercise_frequency), 2) AS avg_exercise_frequency,
+    ROUND(AVG(attendance_percentage), 2) AS avg_attendance_percentage,
+    ROUND(AVG(study_hours_per_day), 2) AS avg_study_hours_per_day,
+    ROUND(AVG(sleep_hours), 2) AS avg_sleep_hours
    ```
  
 - Saved the table created from the SQL query in.xlsx format. Download [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/students%20habits%20cleaned.xlsx).
