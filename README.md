@@ -66,20 +66,23 @@ This involved exloring of the data to analyze the following:
 ### Power BI dashboard
 Download full .pbix file [here.](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/students%20habits.pbix) 
 - The analysis includes a interactive Power BI dashboard with the following visualizations;
-  -- attendance percentage group and exam score
--- exercise frequency group and exam score
--- sleep hours group and exam score
--- study hours per day group and exam score
--- part time job group and exam score
--- diet quality group and exam score
--- Parental Education level and exam score
--- Extracurricular activities and exam score
+  - attendance percentage group and exam score
+  - exercise frequency group and exam score
+  - sleep hours group and exam score
+  - study hours per day group and exam score
+  - part time job group and exam score
+  - diet quality group and exam score
+  - parental Education level and exam score
+  - extracurricular activities and exam score
 - The following study habits were used as general filter options on the dashboard;
-  -- gender
-  -- study hours per day group
-  -- attendance percentage group
-  -- sleep hours group
-  
+  - gender
+  - study hours per day group
+  - attendance percentage group
+  - sleep hours group
+
+Here is a preview of the analytics dashboard.
+![Dashboard](https://github.com/Nissi-Olugbode/Students-habits-vs-Academic-performance/blob/main/Students%20habits.JPG)
+
 ### Insights
 From the analysis of the data, we observed that;
 - Students with study hours of over 6 hours had the highest exam scores with an average of 97.77, this was the only major factor in their performanece as there was an almost even split with other student habits.
